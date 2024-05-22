@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/jam-collab-react/static/css/main.e6c13ad2.css",
+    "main.js": "/jam-collab-react/static/js/main.596dcb23.js",
+    "static/js/453.3d9506f1.chunk.js": "/jam-collab-react/static/js/453.3d9506f1.chunk.js",
+    "index.html": "/jam-collab-react/index.html",
+    "main.e6c13ad2.css.map": "/jam-collab-react/static/css/main.e6c13ad2.css.map",
+    "main.596dcb23.js.map": "/jam-collab-react/static/js/main.596dcb23.js.map",
+    "453.3d9506f1.chunk.js.map": "/jam-collab-react/static/js/453.3d9506f1.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.596dcb23.js"
+  ]
+}
